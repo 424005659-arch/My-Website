@@ -52,9 +52,9 @@ Technologies Used
 
 Responsive Design -
 The website is optimized for:
-- 📱 Mobile devices (stacked layout)
-- 💻 Tablets (adjusted spacing)
-- 🖥️ Desktop (full layout with side-by-side contact section)
+- Mobile devices (stacked layout)
+- Tablets (adjusted spacing)
+- Desktop (full layout with side-by-side contact section)
 
 How to Run the Project:
 1. Download or clone the repository
@@ -64,7 +64,7 @@ How to Run the Project:
 
 Developer
 - Name: Keanu Sean Gabuya
-- Theme: UNDRAFTED 🏀
+- Theme: UNDRAFTED
 - Course Activity: Terminal Assessment 1 - Responsive Website Project
 
 Date: May 16, 2026
