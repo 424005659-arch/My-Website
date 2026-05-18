@@ -66,4 +66,5 @@ Name: Keanu Sean Gabuya
 Theme: UNDRAFTED
 Course Activity: Terminal Assessment 1 - Responsive Website Project
 
-Date: May 18, 2026
+Date:
+May 18, 2026
