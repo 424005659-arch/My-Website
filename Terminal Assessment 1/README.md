@@ -62,9 +62,9 @@ How to Run the Project
 4. Navigate using the menu links.
 
 Developer
-Name: Keanu Sean Gabuya
-Theme: UNDRAFTED
-Course Activity: Terminal Assessment 1 - Responsive Website Project
+- Name: Keanu Sean Gabuya
+- Theme: UNDRAFTED
+- Course Activity: Terminal Assessment 1 - Responsive Website Project
 
 Date:
 May 18, 2026
